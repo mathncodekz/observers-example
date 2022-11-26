@@ -7,10 +7,7 @@ public class Main {
         t.getObservers().add(fahrenheitObserver);
         t.getObservers().add(kelvinObserver);
 
-        Temperature t2 = new Temperature(10);
-        t2.getObservers().add(fahrenheitObserver);
-
-        t2.setCelsiusDegrees(15);
+        t.setCelsiusDegrees(20);
 
     }
 }
