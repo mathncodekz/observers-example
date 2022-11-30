@@ -1,3 +1,5 @@
+package example1;
+
 public class HotColdObserver implements Observer {
     @Override
     public void handle(Temperature t) {

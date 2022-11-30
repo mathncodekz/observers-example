@@ -1,3 +1,5 @@
+package example1;
+
 import java.util.List;
 
 public interface Observable {

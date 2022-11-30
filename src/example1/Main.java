@@ -1,3 +1,5 @@
+package example1;
+
 public class Main {
     public static void main(String[] args) {
         Temperature t = new Temperature(30.0);
